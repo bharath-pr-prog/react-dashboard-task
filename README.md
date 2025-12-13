@@ -3,7 +3,7 @@
 A responsive admin dashboard interface built with React and Tailwind CSS.
 This project demonstrates modern UI development practices including sidebar navigation, data visualization, and responsive layouts.
 
-![Dashboard Preview](dashboard-preview.png)
+!![Dashboard Preview](public/dashboard-preview.png)
 
 ## Features
 - **Responsive Sidebar:** Collapsible navigation menu for mobile and desktop.
