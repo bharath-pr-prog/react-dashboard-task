@@ -1,16 +1,28 @@
-# React + Vite
+# React Analytics Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive admin dashboard interface built with React and Tailwind CSS.
+This project demonstrates modern UI development practices including sidebar navigation, data visualization, and responsive layouts.
 
-Currently, two official plugins are available:
+![Dashboard Preview](dashboard-preview.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- **Responsive Sidebar:** Collapsible navigation menu for mobile and desktop.
+- **Data Visualization:** Clean layout for displaying stats and metrics.
+- **Modern UI:** Styled with Tailwind CSS for a professional look.
+- **Component-Based:** Built with reusable React components.
 
-## React Compiler
+## Tech Stack
+- **Frontend:** React + Vite
+- **Styling:** Tailwind CSS
+- **Icons:** React Icons
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## How to Run This Project
 
-## Expanding the ESLint configuration
+1. Clone the repository
+   git clone https://github.com/bharath-pr-prog/react-dashboard-task.git
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. Install Dependencies
+   npm install
+
+3. Run the Development Server
+   npm run dev
